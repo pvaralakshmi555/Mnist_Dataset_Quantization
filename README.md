@@ -52,8 +52,7 @@ Deploy compressed models to edge devices
 
 **🤝 Credits**
       
-       Developed by: [vara lakshmi]
-       
+         
        Dataset: MNIST
        
        Model optimization: TensorFlow Model Optimization Toolkit
