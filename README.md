@@ -5,15 +5,15 @@
 This project demonstrates how to apply Deep Learning Model Optimization techniques such as Pruning and Quantization using the MNIST dataset. It is built using TensorFlow/Keras and showcases different levels of model compression with accuracy benchmarking.
 
 📁 Project Structure
-Quantization.ipynb: Main Jupyter notebook containing:
+       Quantization.ipynb: Main Jupyter notebook containing:
 
-Model training on MNIST
+1. Model training on MNIST
 
-Quantization-aware training (QAT)
+2. Quantization-aware training (QAT)
 
-Post-training quantization (PQT)
+3. Post-training quantization (PQT)
 
-Model performance comparison
+4. Model performance comparison
 
 🚀 Techniques Covered
 ✅ Baseline model training
