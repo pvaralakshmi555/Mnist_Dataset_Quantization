@@ -26,12 +26,14 @@ This project demonstrates how to apply Deep Learning Model Optimization techniqu
        
        ✅ Accuracy and loss evaluation
 
-📊 Sample Results (Example)
+📊 Sample Results (Model Comparison Table)
 
-Model	Accuracy	Size
-Baseline (float32)	98.2%	1.2 MB
-QAT	98.1%	300 KB
-PQT	97.9%	250 KB
+
+| Model              | Accuracy | Size    |
+|--------------------|----------|---------|
+| Baseline (float32) | 84.2%    | 1.17 MB  |
+| QAT (Quantization Aware Training) | 84.1%    | 107 KB  |
+| PQT (Post Training Quantization) | 86.9%    | 107 KB  |
 
 **🛠 Requirements**
        pip install tensorflow numpy matplotlib
