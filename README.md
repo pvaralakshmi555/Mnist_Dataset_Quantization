@@ -49,6 +49,7 @@ PQT	97.9%	250 KB
 Deploy compressed models to edge devices
 
 **🤝 Credits**
+      
        Developed by: [vara lakshmi]
        
        Dataset: MNIST
